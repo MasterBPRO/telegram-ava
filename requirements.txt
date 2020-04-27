@@ -1,0 +1,7 @@
+pyowm==2.10.0
+Pillow==7.0.0
+pyaes==1.6.1
+pyasn1==0.4.8
+pytz==2019.3
+rsa==4.0
+Telethon==1.10.10
