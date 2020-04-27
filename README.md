@@ -14,4 +14,4 @@ $ pip3 install -r requirements.txt
 $ sudo chmod +x main.py
 $ python3 main.py
 ```
-😊  Mine congratulations! You are run the script. If you are have any questions contact me, necessarily I will help you!
+😃 My congratulations! The script is being run by you. If you have any questions contact me, definitely I will help you!
